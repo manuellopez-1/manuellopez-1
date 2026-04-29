@@ -20,6 +20,7 @@ Computational Engineering PhD Candiate at Yale University focused on molecular d
 - [**Python/Selenium] CHARMM-GUI Automation: Python script that records a user's interactions with CHARMM-GUI (biological structure generation website) and replays them in parallel to speed up input structure generation. 
 - [**Tensorflow/Python] Orgonet: Software used to create and train a neural network to predict atomic positions of organic molecules based on their IUPAC nomenclature.
 
+## Technical Skills
 
 **Languages:** C++, Python, Bash 
 **Scientific Computing:** TensorFlow, OpenMPI
