@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="headshot.jpg" width="180" style="border-radius: 50%;" alt="Manuel Lopez headshot">
+  <img src="headshot.jpg" width="300" style="border-radius: 50%;" alt="Manuel Lopez headshot">
 </p>
 
 ## Manuel Lopez
