@@ -12,7 +12,7 @@ Computational Engineering PhD Candiate at Yale University focused on molecular d
 
 ## Selected Projects
 
-- [**C++/OpenMPI/Bash**] Advanced Sampling: Created an efficient, scalable, multicore software framework for performing FFS simulations with either GROMACS or LAMMPS. The platform includes live monitoring of MD trajectories, a user-friendly interface, and aunified output structure, while also supporting large-scale simulations through checkpoint-based recovery, automatic re-queuing of interrupted trajectories, and storage-efficient data handling.
+- [**C++/OpenMPI/Bash**] Advanced Sampling: Created an efficient, scalable, multicore software framework for performing FFS simulations with either GROMACS or LAMMPS. The platform includes live monitoring of MD trajectories, a user-friendly interface, and a unified output structure, while also supporting large-scale simulations through checkpoint-based recovery, automatic re-queuing of interrupted trajectories, and storage-efficient data handling.
   - [**C++/OpenMPI**] Modified Gromacs: software that enables interruption based checkpoint saving enabling ease of use and speed up in FFS applications.
 - [**Tensorflow/Python**] Trp-Cage VAE: Variational AutoEncoder Trained on Trp-Cage Advanced Sampling Position data, latent spaces howed strong clustering capacity enabling the characterization of four independent folding pathways.
 - [**Tensorflow/Python**] Potassium Channel Neural Network: Multichannel neural network linking potassium channel protein position data to likelihood of leading ion passage passage to next position, utilizing Advanced Sampling dataset on first ion passage.
